@@ -25,13 +25,14 @@
    height:1.7rem;
 }
 .above-box .fa-regular{
-    font-size:19px;
-    background-color: rgb(122, 99, 191);
+    font-size:19px;  
+    background-color: rgb(255, 162, 0);
     border-radius: 50%;
     position: absolute;
     left:10.7rem;
     top:4.5px;
 }
+
 .box p{
     font-size: x-large;
 }
